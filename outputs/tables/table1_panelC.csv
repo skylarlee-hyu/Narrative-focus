@@ -1,0 +1,9 @@
+Variable,Mean,SD,p25,Median,p75
+Article count (daily),11.819,11.279,3.0,8.0,17.0
+Leader article share,0.055,0.151,0.0,0.0,0.0
+Firm article share,0.945,0.151,1.0,1.0,1.0
+Leader sentiment: positive,0.045,0.184,0.0,0.0,0.0
+Leader sentiment: negative,0.026,0.138,0.0,0.0,0.0
+Firm sentiment: positive,0.345,0.297,0.084,0.294,0.522
+Firm sentiment: negative,0.127,0.204,0.0,0.032,0.169
+Abnormal news ratio,1.292,2.344,0.632,0.931,1.469

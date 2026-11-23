@@ -1,0 +1,10 @@
+Item,Value
+Unique firms (tech / non-tech),48 (18 / 30)
+Sample period,2021-01-04 to 2025-12-30
+Firm-day news events,"51,076"
+Technology / non-technology,"18,899 (37.0%) / 32,177"
+Ordinary-sample events (ONE = 1),"48,580 (95.1%)"
+Total news articles,"603,650"
+Leader-centric / firm-centric,"37,077 (6.1%) / 566,573"
+Leader-dominant events,"1,293 (2.5%)"
+Mean events per firm,1064
